@@ -1,3 +1,16 @@
+.background {
+}
+
 .home {
-  color: white;
+  color: black;
+  font-size: 28px;
+  text-align: center;
+  padding-top: 10px;
+}
+
+.form {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  height: 90vh;
 }
